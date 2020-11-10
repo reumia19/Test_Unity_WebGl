@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Test_WebGl_LWRP",
+"dataUrl": "Test_Build.data.unityweb",
+"wasmCodeUrl": "Test_Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Test_Build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
